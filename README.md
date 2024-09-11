@@ -27,7 +27,7 @@ We welcome contributions to this project! Here are some ways you can get involve
 To get started contributing to this project, you will need to clone the repository and install the dependencies.
 
 ```bash
-git clone https://github.com/Syipmong/expense-tracker
+git clone https://github.com/sajawal11h12/expense-tracker
 cd expense-tracker
 yarn install
 ```
